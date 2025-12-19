@@ -1,0 +1,7 @@
+{
+  "name": "Thrive 3 - Urban Streetwear",
+  "description": "A premium, conversion-optimized streetwear e-commerce platform with a high-contrast urban aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
